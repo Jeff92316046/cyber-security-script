@@ -1,7 +1,7 @@
 # cyber-security-script
 
-### usage
-install uv
+## Usage
+install uv and following installer hint setup environment variables in windows
 ```sh
 powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
 ```
